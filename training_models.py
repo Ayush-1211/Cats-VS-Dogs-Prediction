@@ -25,6 +25,7 @@ model.add(MaxPooling2D((2,2)))
 model.add(Flatten())
           
 model.add(Dense(128, input_shape = X.shape[1:], activation = 'relu'))
+
 model.add(Dense(128, activation = 'relu'))
           
 model.add(Dense(2, activation = 'softmax'))
