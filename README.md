@@ -1,5 +1,5 @@
 # Cats-VS-Dogs-Prediction
-Cats VS Dogs Prediction Using Convolutional Neuron Network (Deep Learning)
+Cats VS Dogs Prediction Using Convolutional Neural Network (Deep Learning)
 
 Dataset URL: 
     
